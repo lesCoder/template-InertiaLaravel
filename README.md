@@ -1,7 +1,7 @@
 Template do setup do Inertia com Laravel
 
 passos do zero:
-1 - curl -s https://laravel.build/SpaProject | bash
+1 - curl -s https://laravel.build/NomeDoApp | bash
 
 2 - ./vendor/bin/sail up
 
